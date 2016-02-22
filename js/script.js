@@ -52,7 +52,7 @@
         {
                 arrayR.push(mathSquare[mathSquare.length - 1][i]);
         }
-
+//Inico del codigo modificado
         var contador=0;
         var arrayH=[];
         var arrayV=[];
@@ -147,7 +147,7 @@
         {
             alert("Lo lograste");
         }
-        
+//Fin del codigo
     };
 
     var eventosInputs = function()
